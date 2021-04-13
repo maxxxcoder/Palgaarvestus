@@ -1,4 +1,4 @@
-## **Eesti Palgakalkulaator C**
+## **Eesti Palgakalkulaator C#**
 
 
 
